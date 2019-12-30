@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 class FIB {
-    private static final String FILENAME = "rosalind_fib.txt";
+    private static final String FILENAME = "/Users/dmitrij/Documents/epam_java/src/res/rosalind_fib.txt";
 
 
     private static String[] readerFile() throws IOException {
